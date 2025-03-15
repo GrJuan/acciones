@@ -1,0 +1,5 @@
+aws_region     = "us-west-2"
+app_name       = "swe_app"
+instance_type  = "t3.micro"
+public_key_path = "~/.ssh/id_rsa.pub"
+ami_id         = "ami-0c55b159cbfafe1f0"
